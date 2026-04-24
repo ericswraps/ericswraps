@@ -4,7 +4,7 @@
 <p align='center'>I'm Eric🧙🏽‍♂️</p>
 
 <p align='center'>
-  I'm currently learning how to code through the Odin Project, projects I develop will be found here. 
+  I'm currently building out projects for the company Ceezaa, some of my work may be found here. 
 </p>
 <h2 align='center'><i>Stay Dangerous! Be Great!</i></h2>
 
